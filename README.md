@@ -4,7 +4,9 @@ Hi 👋 My name is David Godfrey
 Software Engineer
 -----------------
 
-I’m a modern C++ enthusiast who loves to share his knowledge with others. I have dedicated myself to learning things; that means that I am learning many things about software development, techniques and methods to improve what I already know and other things , in my mind it looks like those movies where the hacker guy spends all day and night in his room, with many screens and LED lights everywhere, in my case I only have two screens (I need an adapter to connect another :sadface ), but that's if my room is dark and my terminal has green typography (it's so natural that I even went to check).
+I’m a modern C++ enthusiast who loves to share his knowledge with others. I love learning about software development and working on data structures and algorithm problems. You may have found me through StackOverflow.
+
+Fun fact about me is that I recently got back from a 3 year trip around the world!
 
 * 🌍  I'm based in the United States
 * ✉️  You can contact me at [david.godfrey99@gmail.com](mailto:david.godfrey99@gmail.com)
