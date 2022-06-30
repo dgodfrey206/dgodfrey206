@@ -6,7 +6,7 @@ Software Engineer
 
 I’m a modern C++ enthusiast who loves to share his knowledge with others. I love learning about software development and working on data structures and algorithm problems. You may have found me through StackOverflow.
 
-Fun fact about me is that I recently got back from a 3 year trip around the world!
+I've been writing code since 2009, and I'm always looking for new challenges and new technologies to improve my knowledge. I'm also willing to collaborate on projects with other developers.
 
 * 🌍  I'm based in the United States
 * ✉️  You can contact me at [david.godfrey99@gmail.com](mailto:david.godfrey99@gmail.com)
