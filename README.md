@@ -9,7 +9,7 @@ I’m a modern C++ enthusiast who loves to share his knowledge with others. I lo
 I've been writing code since 2009, and I'm always looking for new challenges and new technologies to improve my knowledge. I'm also willing to collaborate on projects with other developers.
 
 * 🌍  I'm based in the United States
-* ✉️  You can contact me at [david.godfrey99@gmail.com](mailto:david.godfrey99@gmail.com)
+* ✉️  You can contact me at [david.godfrey99@gmail.com](mailto:dgodfrey70@gmail.com)
 
 ### Skills
 
