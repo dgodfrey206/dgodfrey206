@@ -1,4 +1,4 @@
-Hi 👋 My name is David Godfrey
+Hi 👋 My name is David
 ==============================
 
 Software Engineer
