@@ -4,9 +4,7 @@ Hi 👋 My name is David
 Software Engineer
 -----------------
 
-I’m a modern C++ enthusiast who loves to share his knowledge with others. I love learning about software development and working on data structures and algorithm problems. You may have found me through StackOverflow.
-
-I've been writing code since 2009, and I'm always looking for new challenges and new technologies to improve my knowledge. I'm also willing to collaborate on projects with other developers.
+My passion lies in bridging the gap between software development and design to generate innovative ideas and deliver effective solutions to diverse challenges. I excel in software development, design, and project management, and have successfully led teams as well as worked independently.
 
 * 🌍  I'm based in the United States
 * ✉️  You can contact me at [dgodfrey70@gmail.com](mailto:dgodfrey70@gmail.com)
